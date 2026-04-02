@@ -29,9 +29,17 @@ According to the dashboard:
 ---
 
 # 📷 Dashboard Preview
+### Image
+Amazon Dashboard.png
 
-Amazon Dashboard 2.png
+### Dashboard
+https://github.com/analyst-aditya/Amazon-sales/blob/main/Amazon%20Dashboard.pbit
 
+### Raw data
+https://github.com/analyst-aditya/Amazon-sales/blob/main/Amazon_Global_Sales_Dataset.csv
+
+### Documents
+https://github.com/analyst-aditya/Amazon-sales/blob/main/Amazon%20Dashboard.pdf
 ---
 
 # 📌 Key Insights
